@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="WebApp/WebApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.Core/Global.fs">
+    <Files>
+      <File FileName="WebApp/Controllers/HomeController.cs" Line="20" Column="19" />
+      <File FileName="WebApp/Views/Web.config" Line="20" Column="3" />
+      <File FileName="WebApp/Web.config" Line="104" Column="72" />
+      <File FileName="WebApp.Core/Global.fs" Line="3" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
