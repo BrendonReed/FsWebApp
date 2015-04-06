@@ -1,0 +1,12 @@
+/Users/brendon/Development/FsWebApp/WebApp.Core/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/WebApp.Core.dll.mdb
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/WebApp.Core.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/obj/Debug/WebApp.Core.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/obj/Debug/WebApp.Core.dll.mdb
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/System.Web.Razor.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/System.Web.Helpers.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/System.Web.WebPages.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/brendon/Development/FsWebApp/WebApp.Core/bin/Debug/System.Web.Mvc.dll
